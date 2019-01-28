@@ -38,8 +38,8 @@ STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 Gapless playback
 STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 
-[audioPlayer queue:@"http://www.abstractpath.com/files/audiosamples/sample.mp3"];
-[audioPlayer queue:@"http://www.abstractpath.com/files/audiosamples/airplane.aac"];
+[audioPlayer queue:@"http://www.com2commn.com/files/sample.mp3"];
+[audioPlayer queue:@"http://www.com2commn.com/files/sample2.aac"];
 
 -More
 More documentation is available on the project Wiki
