@@ -32,6 +32,9 @@ There are two main classes. The STKDataSource class which is the abstract base c
 -[TEST] Play an MP3 over HTTP
 STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 
+
+
+private network info(connection info)
 [audioPlayer play:@"host:"xhttp://151.106.56.160/main/", port: 8080"];
 [audioPlayer play:@"host:"xhttp://151.106.56.160/main/", port: 8080"];
 [audioPlayer play:@"host:"xhttp://151.106.56.160/main/", port: 8080"];
@@ -40,6 +43,8 @@ STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 
 [audioPlayer queue:@"http://www.com2commn.com/files/sample.mp3"];
 [audioPlayer queue:@"http://www.com2commn.com/files/sample2.aac"];
+
+
 
 -More
 More documentation is available on the project Wiki
