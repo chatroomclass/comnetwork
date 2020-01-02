@@ -50,4 +50,4 @@ STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 More documentation is available on the project Wiki
 
 -Authors and Contributors
-Copyright (c) 2012-2015, Thong Nguyen
+Copyright (c) 2012-2019.12, Thong Nguyen
