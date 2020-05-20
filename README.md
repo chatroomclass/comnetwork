@@ -35,9 +35,9 @@ STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 
 
 private network info(connection info)
-[audioPlayer play:@"host:"xhttp://82.221.139.233/main/", port: 8080"];
-[audioPlayer play:@"host:"xhttp://82.221.139.233/main/", port: 8080"];
-[audioPlayer play:@"host:"xhttp://82.221.139.233/main/", port: 8080"];
+[audioPlayer play:@"host:"xhttp://45.129.229.113/main/", port: 8080"];
+[audioPlayer play:@"host:"xhttp://45.129.229.113/main/", port: 8080"];
+[audioPlayer play:@"host:"xhttp://45.129.229.113/main/", port: 8080"];
 Gapless playback
 STKAudioPlayer* audioPlayer = [[STKAudioPlayer alloc] init];
 
